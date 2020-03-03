@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Patang_User" language="en" table="x_123584_patang_patang_user">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Patang_User</label>
+            <language>en</language>
+            <name>x_123584_patang_patang_user</name>
+            <plural>Patang_Users</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-03 12:49:22</sys_created_on>
+            <sys_id>fa74658e2fdf0410211d2d5df699b6ff</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Patang_User</sys_name>
+            <sys_package display_value="Patang" source="x_123584_patang">af59f0822f9f0410211d2d5df699b615</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Patang">af59f0822f9f0410211d2d5df699b615</sys_scope>
+            <sys_update_name>sys_documentation_x_123584_patang_patang_user__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-03 12:49:22</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

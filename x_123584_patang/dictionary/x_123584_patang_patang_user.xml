@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Patang_User" max_length="40" name="x_123584_patang_patang_user" type="collection"/>
+</database>
